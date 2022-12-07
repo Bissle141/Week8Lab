@@ -19,7 +19,7 @@ types of stories and points to include:
    * what tech you were learning
    * why you chose that
    * how you’ve used it since
-   
+
 
 ---
 
@@ -55,10 +55,3 @@ Looking back I’m actually really proud of the work I did during that planning 
 By the time I got to actually setting up my directory and coding, I had a full game plan. I had a list of end-points and the associated processes, I had fully fleshed out wireframes that really helped my figure out the functionality, which I of course also listed out. I was fully prepared to code and felt confident jumping in.
 I will say though, I still had to alter things later on. Prior to making Dragons keep I was still murky on how the queries associated with endpoints worked syntactically, but while coding I figured that out and appended my code to reflect that new knowledge.
 Overall it was a wonderful learning process and fun project that really helped me to learn not only the basic process behind making a full-stack app, but also how to find/navigate the immense documentation you can find online.
-
-
-________________
-Step Three: Finalize
-Choose your top 2 from the previous step and add some polish. Make sure you’ve included necessary details and that the story flows. Optionally, think of some questions that this story could answer and/or practice telling your stories to a classmate.
-Step Four: Turn In
-Create a repo on GitHub and upload your stories to it.
